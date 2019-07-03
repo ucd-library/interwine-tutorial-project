@@ -7,6 +7,8 @@ return html`
   :host {
     display: block;
   }
-</style>  
+</style>
+
+<p>paragraph ${this.foo}</p>
 
 `;}
