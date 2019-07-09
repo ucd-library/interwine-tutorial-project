@@ -5,9 +5,7 @@
 ### To Start App
 
 1. Open a Terminal
-2. 'npm run watch' to compile code
-3. Open a second Terminal
-4. 'npm start' to run the app
+2. 'nodemon watch' to run the app
 
 ### Create a lit-element using Cork
 
